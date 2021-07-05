@@ -1,0 +1,16 @@
+/home/ismael/Área de Trabalho/Estudos/DIO/DIO.Series/obj/Debug/net5.0/DIO.Series.csprojAssemblyReference.cache
+/home/ismael/Área de Trabalho/Estudos/DIO/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/ismael/Área de Trabalho/Estudos/DIO/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/ismael/Área de Trabalho/Estudos/DIO/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/ismael/Área de Trabalho/Estudos/DIO/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/ismael/Área de Trabalho/Estudos/DIO/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/ismael/Área de Trabalho/Estudos/DIO/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/ismael/Área de Trabalho/Estudos/DIO/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/ismael/Área de Trabalho/Estudos/DIO/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/ismael/Área de Trabalho/Estudos/DIO/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/ismael/Área de Trabalho/Estudos/DIO/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/ismael/Área de Trabalho/Estudos/DIO/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/ismael/Área de Trabalho/Estudos/DIO/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/ismael/Área de Trabalho/Estudos/DIO/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/ismael/Área de Trabalho/Estudos/DIO/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/ismael/Área de Trabalho/Estudos/DIO/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
